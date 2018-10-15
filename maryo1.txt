@@ -1,9 +1,0 @@
-<p>Maryo has Following features</p>
-<p>
-    <b>You can move to different Levels</b><br>
-</p>
-<p>
-    <b>You need to safe from fire</b><br>
-</p>
-
-
